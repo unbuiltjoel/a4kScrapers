@@ -81,12 +81,12 @@
           "cat_episode": "TV",
           "domains": [
               { "base": "https://1337x.to" },
-              { "base": "https://1337x.unblocked.llc" },
+              { "base": "" },
               { "base": "https://1337x.st" },
               { "base": "https://x1337x.ws" },
-              { "base": "https://x1337x.eu" },
-              { "base": "https://x1337x.se" },
-              { "base": "https://1337x.is" }
+              { "base": "" },
+              { "base": "" },
+              { "base": "" }
           ]
       },
       "lime": {
@@ -181,9 +181,9 @@
           "cat_episode": "TV",
           "domains": [
               { "base": "https://zooqle.com" },
-              { "base": "https://zooqle.unblocked.win" },
-              { "base": "https://zooqle.unblocked.llc" },
-              { "base": "https://zooqle.unblocked.krd" }
+              { "base": "" },
+              { "base": "" },
+              { "base": "" }
           ]
       }
   },
